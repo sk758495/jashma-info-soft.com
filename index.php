@@ -868,13 +868,13 @@
                         <div class="col-lg-3 col-md-6">
                             <h3 class="text-light mb-4">Address</h3>
                             <p class="mb-2 text-light">
-                                <i class="fa fa-map-marker-alt txt-primary me-3"></i>123 Street, New York, USA
+                                <i class="fa fa-map-marker-alt txt-primary me-3"></i>Sunrise Complex, 212, Waghodia Rd, above AXIS BANK, Chanda Nagar, Vrundavan, CROSSING ROAD, Vadodara, Gujarat 390020
                             </p>
                             <p class="mb-2 text-light">
-                                <i class="fa fa-phone-alt txt-primary me-3"></i>+012 345 67890
+                                <i class="fa fa-phone-alt txt-primary me-3"></i>+91 96244 02490
                             </p>
                             <p class="mb-2 text-light">
-                                <i class="fa fa-envelope txt-primary me-3"></i>info@example.com
+                                <i class="fa fa-envelope txt-primary me-3"></i>hr@jashmainfosoft.com
                             </p>
                             <div class="d-flex pt-2">
                                 <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-facebook-f"></i
@@ -892,14 +892,12 @@
                 </div>
                 <div class="container-fluid copyright">
                     <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 text-light">
-                                &copy; <a href="#">2024 Nanointory</a>, All Right Reserved.
+                            <div class="text-center  text-light">
+                                &copy; <a href="#">2024 Jashma Info Soft</a>, All Right Reserved.
                             </div>
-                            <div class="col-md-6 text-center text-light text-md-end">
+                            <!-- <div class="col-md-6 text-center text-light text-md-end">
                                 Designed By <a href="#">Nanosoft</a>
-                            </div>
-                        </div>
+                            </div> -->
                     </div>
                 </div>
             </div>

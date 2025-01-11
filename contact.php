@@ -229,70 +229,68 @@
 
     <!-- Footer Start -->
     <section>
-        <div class="container-fluid bg-dark text-body footer mt-5 pt-5 px-0 wow fadeIn" data-wow-delay="0.1s">
-            <div class="container py-5">
-                <div class="row footer-content">
-                    <div class="col-lg-4 col-md-6">
-                        <h3 class="text-light mb-4">About Us</h3>
-                        <p class="mb-2 text-light">
-                            Nanointory is a sleek interior design theme that blends creativity and functionality to transform spaces into stunning designs. Tailored for your unique needs, it’s where innovation meets elegance.
-                        </p>
-                    </div>
-                    <div class="col-lg-2 col-md-6">
-                        <h3 class="text-light mb-4">Services</h3>
-                        <a class="btn btn-link" href="">Architecture</a>
-                        <a class="btn btn-link" href="">3D Animation</a>
-                        <a class="btn btn-link" href="">House Planning</a>
-                        <a class="btn btn-link" href="">Interior Design</a>
-                        <a class="btn btn-link" href="">Construction</a>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <h3 class="text-light mb-4">Quick Links</h3>
-                        <a class="btn btn-link" href="">About Us</a>
-                        <a class="btn btn-link" href="">Contact Us</a>
-                        <a class="btn btn-link" href="">Our Services</a>
-                        <a class="btn btn-link" href="">Terms & Condition</a>
-                        <a class="btn btn-link" href="">Support</a>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <h3 class="text-light mb-4">Address</h3>
-                        <p class="mb-2 text-light">
-                            <i class="fa fa-map-marker-alt txt-primary me-3"></i>123 Street, New York, USA
-                        </p>
-                        <p class="mb-2 text-light">
-                            <i class="fa fa-phone-alt txt-primary me-3"></i>+012 345 67890
-                        </p>
-                        <p class="mb-2 text-light">
-                            <i class="fa fa-envelope txt-primary me-3"></i>info@example.com
-                        </p>
-                        <div class="d-flex pt-2">
-                            <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-facebook-f"></i
+            <div class="container-fluid bg-dark text-body footer mt-5 pt-5 px-0 wow fadeIn" data-wow-delay="0.1s">
+                <div class="container py-5">
+                    <div class="row footer-content">
+                        <div class="col-lg-4 col-md-6">
+                            <h3 class="text-light mb-4">About Us</h3>
+                            <p class="mb-2 text-light">
+                                At <span style="color: purple; font-weight: 700;">JASHMA INFO SOFT</span>, we specialize in providing innovative and scalable web development, mobile app solutions, SEO, and digital marketing services. Whether you're looking to build a new website, enhance your app, or improve your online visibility, we deliver tailored solutions that help your business succeed in the digital world.
+                            </p>   
+                        </div>
+                        <div class="col-lg-2 col-md-6">
+                            <h3 class="text-light mb-4">Services</h3>
+                            <a class="btn btn-link" href="">Architecture</a>
+                            <a class="btn btn-link" href="">3D Animation</a>
+                            <a class="btn btn-link" href="">House Planning</a>
+                            <a class="btn btn-link" href="">Interior Design</a>
+                            <a class="btn btn-link" href="">Construction</a>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <h3 class="text-light mb-4">Quick Links</h3>
+                            <a class="btn btn-link" href="">About Us</a>
+                            <a class="btn btn-link" href="">Contact Us</a>
+                            <a class="btn btn-link" href="">Our Services</a>
+                            <a class="btn btn-link" href="">Terms & Condition</a>
+                            <a class="btn btn-link" href="">Support</a>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <h3 class="text-light mb-4">Address</h3>
+                            <p class="mb-2 text-light">
+                                <i class="fa fa-map-marker-alt txt-primary me-3"></i>Sunrise Complex, 212, Waghodia Rd, above AXIS BANK, Chanda Nagar, Vrundavan, CROSSING ROAD, Vadodara, Gujarat 390020
+                            </p>
+                            <p class="mb-2 text-light">
+                                <i class="fa fa-phone-alt txt-primary me-3"></i>+91 96244 02490
+                            </p>
+                            <p class="mb-2 text-light">
+                                <i class="fa fa-envelope txt-primary me-3"></i>hr@jashmainfosoft.com
+                            </p>
+                            <div class="d-flex pt-2">
+                                <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-facebook-f"></i
                 ></a>
-                            <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i
+                                <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i
                 ></a>
-                            <a class="btn btn-sm-square btn-outline-body me-1" href="">
-                                <i class="fa-brands fa-x-twitter"></i>
-                            </a>
-                            <a class="btn btn-square btn-outline-body me-0" href=""><i class="fab fa-linkedin-in"></i
+                                <a class="btn btn-sm-square btn-outline-body me-1" href="">
+                                    <i class="fa-brands fa-x-twitter"></i>
+                                </a>
+                                <a class="btn btn-square btn-outline-body me-0" href=""><i class="fab fa-linkedin-in"></i
                 ></a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="container-fluid copyright">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 text-light">
-                            &copy; <a href="#">2024 Nanointory</a>, All Right Reserved.
-                        </div>
-                        <div class="col-md-6 text-center text-light text-md-end">
-                            Designed By <a href="#">Nanosoft</a>
-                        </div>
+                <div class="container-fluid copyright">
+                    <div class="container">
+                            <div class="text-center  text-light">
+                                &copy; <a href="#">2024 Jashma Info Soft</a>, All Right Reserved.
+                            </div>
+                            <!-- <div class="col-md-6 text-center text-light text-md-end">
+                                Designed By <a href="#">Nanosoft</a>
+                            </div> -->
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
     <!-- Footer End -->
 
     <!-- Back to Top -->
