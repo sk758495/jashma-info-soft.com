@@ -48,7 +48,7 @@
         <div class="row gx-0 d-none d-lg-flex">
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center py-3 me-3">
-                    <a class="text-white px-2" href="tel:+0123456789"><i class="fa fa-phone-alt txt-primary me-2"></i>+012 345 6789</a
+                    <a class="text-white px-2" href="tel:+91 96244 02490"><i class="fa fa-phone-alt txt-primary me-2"></i>+91 96244 02490</a
             >
             <a class="text-white px-2" href="mailto:info@example.com"
               ><i class="fa fa-envelope-open txt-primary me-2"></i
@@ -283,7 +283,7 @@
                     <div class="row g-4">
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item d-flex position-relative text-center h-100">
-                                <img class="bg-img" src="img/service-1.jpg" alt="Service" />
+                                <img class="bg-img" src="img/web/webbig.jpg" alt="Service" />
                                 <div class="service-text p-5">
                                     <i class="fas fa-laptop-code mb-4 fa-4x"></i>
                                     <h3 class="mb-3">Web Development</h3>
@@ -298,7 +298,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="service-item d-flex position-relative text-center h-100">
-                                <img class="bg-img" src="img/service-2.jpg" alt="Service" />
+                                <img class="bg-img" src="img/mobile/Mobile.jpg" alt="Service" />
                                 <div class="service-text p-5">
                                     <i class="fas fa-mobile-alt mb-4 fa-4x"></i>
                                     <h3 class="mb-3">Mobile App Development</h3>
@@ -313,7 +313,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="service-item d-flex position-relative text-center h-100">
-                                <img class="bg-img" src="img/service-3.jpg" alt="Service" />
+                                <img class="bg-img" src="img/seo/seo.jpg" alt="Service" />
                                 <div class="service-text p-5">
                                     <i class="fas fa-search mb-4 fa-4x"></i>
                                     <h3 class="mb-3">SEO Services</h3>
@@ -328,7 +328,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item d-flex position-relative text-center h-100">
-                                <img class="bg-img" src="img/service-4.jpg" alt="Service" />
+                                <img class="bg-img" src="img/customsoftware/customsoftware.jpg" alt="Service" />
                                 <div class="service-text p-5">
                                     <i class="fas fa-code mb-4 fa-4x"></i>
                                     <h3 class="mb-3">Custom Software Development</h3>
@@ -343,7 +343,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="service-item d-flex position-relative text-center h-100">
-                                <img class="bg-img" src="img/service-5.jpg" alt="Service" />
+                                <img class="bg-img" src="img/cloud/cloud.jpg" alt="Service" />
                                 <div class="service-text p-5">
                                     <i class="fas fa-cloud mb-4 fa-4x"></i>
                                     <h3 class="mb-3">Cloud Solutions</h3>
@@ -358,7 +358,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="service-item d-flex position-relative text-center h-100">
-                                <img class="bg-img" src="img/service-6.jpg" alt="Service" />
+                                <img class="bg-img" src="img/itsupport/support.jpg" alt="Service" />
                                 <div class="service-text p-5">
                                     <i class="fas fa-headset mb-4 fa-4x"></i>
                                     <h3 class="mb-3">IT Support & Maintenance</h3>
@@ -385,28 +385,28 @@
                     <div class="row g-5">
                         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="feature-img">
-                                <img class="img-fluid" src="img/about-2.jpg" alt="About" />
-                                <img class="img-fluid" src="img/about-1.jpg" alt="About" />
+                                <img class="img-fluid" src="img/feature-1.jpg" alt="About" />
+                                <img class="img-fluid" src="img/feature-2.jpg" alt="About" />
                             </div>
                         </div>
                         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="section-title">
                                 <h6>Why Choose Us!</h6>
                                 <h2 class="mb-4">
-                                    Why You Should Trust Us? Learn More About Us!
+                                    Why You Should Trust Us for Your IT & Web Solutions
                                 </h2>
                             </div>
                             <p class="mb-4">
-                                We blend creativity with technical expertise, ensuring that every project we take on is a perfect combination of form and function. Our dedicated team is here to turn your vision into reality.
+                                We combine technical expertise with creative solutions to deliver high-quality web development, mobile apps, and digital marketing services. Our team focuses on understanding your business needs and delivering results that help you grow online.
                             </p>
                             <div class="row g-4">
                                 <div class="col-12">
                                     <div class="d-flex align-items-start">
-                                        <i class="fas fa-pencil-alt fa-3x txt-primary"></i>
+                                        <i class="fas fa-laptop-code fa-3x txt-primary"></i>
                                         <div class="ms-4">
-                                            <h3>Design Approach</h3>
+                                            <h3>Client-Centered Approach</h3>
                                             <p class="mb-0">
-                                                We emphasize a client-centered approach, ensuring that every design reflects your unique vision while balancing innovation and practicality.
+                                                We prioritize your business goals and tailor our services—whether web development, SEO, or app development—to meet your unique needs.
                                             </p>
                                         </div>
                                     </div>
@@ -415,20 +415,31 @@
                                     <div class="d-flex align-items-start">
                                         <i class="fas fa-lightbulb fa-3x txt-primary"></i>
                                         <div class="ms-4">
-                                            <h3>Innovative Solutions</h3>
+                                            <h3>Innovative Digital Solutions</h3>
                                             <p class="mb-0">
-                                                Our team stays at the forefront of trends, delivering cutting-edge solutions that meet both your needs and the evolving demands of the industry.
+                                                Our team stays at the forefront of digital trends, delivering innovative web solutions, mobile apps, and SEO strategies that elevate your business and online presence.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="d-flex align-items-start">
-                                        <i class="fas fa-project-diagram fa-3x txt-primary"></i>
+                                        <i class="fas fa-tasks fa-3x txt-primary"></i>
                                         <div class="ms-4">
-                                            <h3>Project Management</h3>
+                                            <h3>Project Management Excellence</h3>
                                             <p class="mb-0">
-                                                From conception to completion, we manage every aspect of the project, ensuring timely delivery and exceptional quality at every stage.
+                                                We manage every aspect of your project with precision—from initial planning to post-launch support—ensuring timely delivery and top-notch quality at every stage.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="d-flex align-items-start">
+                                        <i class="fas fa-headset fa-3x txt-primary"></i>
+                                        <div class="ms-4">
+                                            <h3>Ongoing Support & Maintenance</h3>
+                                            <p class="mb-0">
+                                                We provide continuous IT support and maintenance services, ensuring your website, mobile app, and IT systems run smoothly, secure, and updated at all times.
                                             </p>
                                         </div>
                                     </div>
@@ -443,298 +454,251 @@
 
         <!-- Project Start -->
         <section>
-            <div class="container-xxl project py-5">
+    <div class="container-xxl project py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                <div class="section-title">
+                    <h6>Our Projects</h6>
+                    <h2 class="mb-4">
+                        Explore Our Latest Projects and Innovations
+                    </h2>
+                </div>
+            </div>
+            <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-4">
+                    <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
+                            01. Seller -Sathi
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
+                            02. Arjun G-Tech
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
+                            03. Gujju E-Market
+                        </button>
+                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
+                            => All Type of Website
+                        </button>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="tab-content w-100">
+                        <div class="tab-pane fade show active" id="tab-pane-1">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-1.jpg" style="object-fit: cover" alt="Seller Sathi Project" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h1 class="mb-3">
+                                        Seller Sathi - Static Website for Ecommerce Service
+                                    </h1>
+                                    <p class="mb-4">
+                                        Seller Sathi is a static website built to showcase services for e-commerce businesses. The website offers detailed information about the services and features, creating an impactful online presence for the brand.
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Custom Static Website Design
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Mobile Responsive Layout
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>SEO Optimized Content for Visibility
+                                    </p>
+                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tab-pane-2">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-2.jpg" style="object-fit: cover" alt="Arjun G-Tech Project" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h1 class="mb-3">
+                                        Arjun G-Tech - Static Website for IT Products
+                                    </h1>
+                                    <p class="mb-4">
+                                        Arjun G-Tech is a static website designed to showcase and promote IT products. The website serves as a professional online presence to market their offerings and build trust with potential customers.
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Custom Static Website Design
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Product Catalog and Features Display
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>SEO Friendly Structure for Visibility
+                                    </p>
+                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tab-pane-3">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-3.jpg" style="object-fit: cover" alt="Gujju E-Market Project" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h1 class="mb-3">
+                                        Gujju E-Market - E-commerce Website Development
+                                    </h1>
+                                    <p class="mb-4">
+                                        Gujju E-Market is a fully functional e-commerce website that offers a user-friendly platform for online shopping. The website includes features like a product catalog, shopping cart, and secure payment gateway.
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Custom E-commerce Website Development
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Integrated Payment Gateway
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Responsive Design & Mobile Optimization
+                                    </p>
+                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tab-pane-4">
+                            <div class="row g-4">
+                                <div class="col-md-6" style="min-height: 350px">
+                                    <div class="position-relative h-100">
+                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-4.jpg" style="object-fit: cover" alt="Professional Website Design" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h1 class="mb-3">
+                                        Professional Website Design & Development
+                                    </h1>
+                                    <p class="mb-4">
+                                        We specialize in designing professional websites that reflect the brand’s identity, with a focus on user engagement, mobile responsiveness, and fast load times to enhance the user experience.
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Custom Website Design
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Responsive Web Design for all Devices
+                                    </p>
+                                    <p>
+                                        <i class="fa fa-check txt-primary me-3"></i>Fast Load Times & Optimized User Experience
+                                    </p>
+                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+        <!-- Project End -->
+
+
+        <!-- Team Start -->
+        <!-- <section>
+            <div class="container-xxl py-5">
                 <div class="container">
                     <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
                         <div class="section-title">
-                            <h6>Our Projects</h6>
+                            <h6>Team Members</h6>
                             <h2 class="mb-4">
-                                Visit Our Latest Projects And Our Innovative Works
+                                We Are Creative Architecture Team For Your Dream Home
                             </h2>
                         </div>
                     </div>
-                    <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="col-lg-4">
-                            <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
-                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
-                  01. Modern Complex
-                </button>
-                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
-                  02. Royal Hotel
-                </button>
-                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
-                  03. Mexwel Buiding
-                </button>
-                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
-                  04. Shopping Complex
-                </button>
+                    <div class="row g-0 team-items">
+                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="team-item position-relative">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/team-1.jpg" alt="Team Member" />
+                                    <div class="team-social text-center">
+                                        <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
+                ></a>
+                                    </div>
+                                </div>
+                                <div class="bg-light text-center p-4">
+                                    <h3 class="mt-2">John Doe</h3>
+                                    <span>Lead Architect</span>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-8">
-                            <div class="tab-content w-100">
-                                <div class="tab-pane fade show active" id="tab-pane-1">
-                                    <div class="row g-4">
-                                        <div class="col-md-6" style="min-height: 350px">
-                                            <div class="position-relative h-100">
-                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project-1.jpg" style="object-fit: cover" alt="Projects" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <h1 class="mb-3">
-                                                25 Years Of Experience In Architecture Industry
-                                            </h1>
-                                            <p class="mb-4">
-                                                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
-                                            </p>
-                                            <p>
-                                                <i class="fa fa-check txt-primary me-3"></i>Design Approach
-                                            </p>
-                                            <p>
-                                                <i class="fa fa-check txt-primary me-3"></i>Innovative Solutions
-                                            </p>
-                                            <p>
-                                                <i class="fa fa-check txt-primary me-3"></i>Project Management
-                                            </p>
-                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a
-                      >
+                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="team-item position-relative">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/team-2.jpg" alt="Team Member" />
+                                    <div class="team-social text-center">
+                                        <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
+                ></a>
+                                    </div>
+                                </div>
+                                <div class="bg-light text-center p-4">
+                                    <h3 class="mt-2">James Smith</h3>
+                                    <span>Senior Architect</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="team-item position-relative">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/team-3.jpg" alt="Team Member" />
+                                    <div class="team-social text-center">
+                                        <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
+                ></a>
+                                    </div>
+                                </div>
+                                <div class="bg-light text-center p-4">
+                                    <h3 class="mt-2">Johnson</h3>
+                                    <span>Project Manager</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="team-item position-relative">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/team-4.jpg" alt="Team Member" />
+                                    <div class="team-social text-center">
+                                        <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
+                ></a>
+                                        <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
+                ></a>
+                                    </div>
+                                </div>
+                                <div class="bg-light text-center p-4">
+                                    <h3 class="mt-2">David Brown</h3>
+                                    <span>Design Specialist</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                  </div>
                 </div>
-                <div class="tab-pane fade" id="tab-pane-2">
-                  <div class="row g-4">
-                    <div class="col-md-6" style="min-height: 350px">
-                      <div class="position-relative h-100">
-                        <img
-                          class="position-absolute img-fluid w-100 h-100"
-                          src="img/project-2.jpg"
-                          style="object-fit: cover"
-                          alt="Projects"
-                        />
-                      </div>
-                    </div>
-                    <div class="col-md-6">
-                      <h1 class="mb-3">
-                        25 Years Of Experience In Architecture Industry
-                      </h1>
-                      <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum
-                        sit. Aliqu diam amet diam et eos. Clita erat ipsum et
-                        lorem et sit, sed stet lorem sit clita duo justo magna
-                        dolore erat amet
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Design
-                        Approach
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Innovative
-                        Solutions
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Project
-                        Management
-                      </p>
-                      <a href="" class="btn btn-inline-body py-3 px-5 mt-3"
-                        >Read More</a
-                      >
-                    </div>
-                  </div>
-                </div>
-                <div class="tab-pane fade" id="tab-pane-3">
-                  <div class="row g-4">
-                    <div class="col-md-6" style="min-height: 350px">
-                      <div class="position-relative h-100">
-                        <img
-                          class="position-absolute img-fluid w-100 h-100"
-                          src="img/project-3.jpg"
-                          style="object-fit: cover"
-                          alt="Projects"
-                        />
-                      </div>
-                    </div>
-                    <div class="col-md-6">
-                      <h1 class="mb-3">
-                        25 Years Of Experience In Architecture Industry
-                      </h1>
-                      <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum
-                        sit. Aliqu diam amet diam et eos. Clita erat ipsum et
-                        lorem et sit, sed stet lorem sit clita duo justo magna
-                        dolore erat amet
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Design
-                        Approach
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Innovative
-                        Solutions
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Project
-                        Management
-                      </p>
-                      <a href="" class="btn btn-inline-body py-3 px-5 mt-3"
-                        >Read More</a
-                      >
-                    </div>
-                  </div>
-                </div>
-                <div class="tab-pane fade" id="tab-pane-4">
-                  <div class="row g-4">
-                    <div class="col-md-6" style="min-height: 350px">
-                      <div class="position-relative h-100">
-                        <img
-                          class="position-absolute img-fluid w-100 h-100"
-                          src="img/project-4.jpg"
-                          style="object-fit: cover"
-                          alt="Projects"
-                        />
-                      </div>
-                    </div>
-                    <div class="col-md-6">
-                      <h1 class="mb-3">
-                        25 Years Of Experience In Architecture Industry
-                      </h1>
-                      <p class="mb-4">
-                        Tempor erat elitr rebum at clita. Diam dolor diam ipsum
-                        sit. Aliqu diam amet diam et eos. Clita erat ipsum et
-                        lorem et sit, sed stet lorem sit clita duo justo magna
-                        dolore erat amet
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Design
-                        Approach
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Innovative
-                        Solutions
-                      </p>
-                      <p>
-                        <i class="fa fa-check txt-primary me-3"></i>Project
-                        Management
-                      </p>
-                      <a href="" class="btn btn-inline-body py-3 px-5 mt-3"
-                        >Read More</a
-                      >
-                    </div>
-                  </div>
-                </div>
-              </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Project End -->
-
-   <!-- Team Start -->
-<section>
-  <div class="container-xxl py-5">
-    <div class="container">
-      <div
-        class="text-center mx-auto mb-5 wow fadeInUp"
-        data-wow-delay="0.1s"
-        style="max-width: 600px"
-      >
-        <div class="section-title">
-          <h6>Team Members</h6>
-          <h2 class="mb-4">
-            We Are Creative Architecture Team For Your Dream Home
-          </h2>
-        </div>
-      </div>
-      <div class="row g-0 team-items">
-        <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-          <div class="team-item position-relative">
-            <div class="position-relative">
-              <img
-                class="img-fluid"
-                src="img/team-1.jpg"
-                alt="Team Member"
-              />
-              <div class="team-social text-center">
-                <a class="btn btn-square" href=""
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
-                ></a>
-                                        </div>
-                                    </div>
-                                    <div class="bg-light text-center p-4">
-                                        <h3 class="mt-2">John Doe</h3>
-                                        <span>Lead Architect</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                                <div class="team-item position-relative">
-                                    <div class="position-relative">
-                                        <img class="img-fluid" src="img/team-2.jpg" alt="Team Member" />
-                                        <div class="team-social text-center">
-                                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
-                ></a>
-                                        </div>
-                                    </div>
-                                    <div class="bg-light text-center p-4">
-                                        <h3 class="mt-2">James Smith</h3>
-                                        <span>Senior Architect</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                                <div class="team-item position-relative">
-                                    <div class="position-relative">
-                                        <img class="img-fluid" src="img/team-3.jpg" alt="Team Member" />
-                                        <div class="team-social text-center">
-                                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
-                ></a>
-                                        </div>
-                                    </div>
-                                    <div class="bg-light text-center p-4">
-                                        <h3 class="mt-2">Johnson</h3>
-                                        <span>Project Manager</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                                <div class="team-item position-relative">
-                                    <div class="position-relative">
-                                        <img class="img-fluid" src="img/team-4.jpg" alt="Team Member" />
-                                        <div class="team-social text-center">
-                                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i
-                ></a>
-                                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i
-                ></a>
-                                        </div>
-                                    </div>
-                                    <div class="bg-light text-center p-4">
-                                        <h3 class="mt-2">David Brown</h3>
-                                        <span>Design Specialist</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        </section>
+        </section> -->
         <!-- Team End -->
 
 
         <!-- Testimonial Start -->
-        <section>
+        <!-- <section>
             <div class="container-xxl py-5">
                 <div class="container">
                     <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
@@ -770,7 +734,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Testimonial End -->
 
         <!-- Appointment Start -->
@@ -782,11 +746,11 @@
                             <div class="section-title">
                                 <h6>Appointment</h6>
                                 <h2 class="mb-4">
-                                    Make An Appointment To Start Your Dream Project
+                                    Book An Appointment To Start Your Digital Transformation
                                 </h2>
                             </div>
                             <p class="mb-4">
-                                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
+                                Ready to bring your digital vision to life? Whether it's creating a custom website, developing a mobile app, or improving your SEO strategy, we are here to help you turn your ideas into reality.
                             </p>
                             <div class="row g-4">
                                 <div class="col-12">
@@ -796,7 +760,9 @@
                                         </div>
                                         <div class="ms-4">
                                             <p class="mb-2">Call Us Now</p>
-                                            <h3 class="mb-0">+012 345 6789</h3>
+                                            <h3 class="mb-0">
+                                                <a href="tel:+91 96244 02490">+91 96244 02490</a>
+                                            </h3>
                                         </div>
                                     </div>
                                 </div>
@@ -807,49 +773,50 @@
                                         </div>
                                         <div class="ms-4">
                                             <p class="mb-2">Mail Us Now</p>
-                                            <h3 class="mb-0">info@example.com</h3>
+                                            <h3 class="mb-0"><a href="mailto:info@example.com">hr@jashmainfosoft.com</a></h3>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                            <form id="appointmentForm">
+                            <form id="Form" method="POST" action="process_form.php">
                                 <div class="row g-3">
                                     <div class="col-12 col-sm-6">
-                                        <input type="text" class="form-control" placeholder="Your Name" style="height: 55px" required />
+                                        <input type="text" class="form-control" placeholder="Your Name" name="name" style="height: 55px" required />
                                     </div>
                                     <div class="col-12 col-sm-6">
-                                        <input type="email" class="form-control" placeholder="Your Email" style="height: 55px" required />
+                                        <input type="email" class="form-control" placeholder="Your Email" name="email" style="height: 55px" required />
                                     </div>
                                     <div class="col-12 col-sm-6">
-                                        <input type="text" class="form-control" placeholder="Your Mobile" style="height: 55px" required />
+                                        <input type="text" class="form-control" placeholder="Your Mobile" name="mobile" style="height: 55px" required />
                                     </div>
-
                                     <div class="col-12 col-sm-6">
-                                        <select class="form-select" style="height: 55px" required>
-                      <option value="" disabled selected>Choose Service</option>
-                      <option value="Interior">Interior</option>
-                      <option value="Architecture">Architecture</option>
-                      <option value="Design">Design</option>
-                    </select>
+                                        <select class="form-select" name="service" style="height: 55px" required>
+                                        <option value="" disabled selected>Choose Service</option>
+                                        <option value="Web Development">Web Development</option>
+                                        <option value="Mobile App Development">Mobile App Development</option>
+                                        <option value="SEO Services">SEO Services</option>
+                                        <option value="IT Consulting">IT Consulting</option>
+                                    </select>
                                     </div>
-
                                     <div class="col-12">
-                                        <textarea class="form-control" rows="7" placeholder="Message" required></textarea>
+                                        <textarea class="form-control" rows="7" placeholder="Message" name="message" required></textarea>
                                     </div>
                                     <div class="col-12">
                                         <button type="submit" class="btn btn-inline-body w-100 py-3" id="submitBtn">
-                      Book Appointment
-                    </button>
+                                        Book Appointment
+                                    </button>
                                     </div>
                                 </div>
                             </form>
+
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
         <!-- Appointment End -->
 
         <!-- Success Modal -->
