@@ -486,7 +486,7 @@
                                     <div class="row g-4">
                                         <div class="col-md-6" style="min-height: 350px">
                                             <div class="position-relative h-100">
-                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project-1.jpg" style="object-fit: cover" alt="Seller Sathi Project" />
+                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project/sellersathi-w.png" style="object-fit: cover" alt="Seller Sathi Project" />
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -513,7 +513,7 @@
                                     <div class="row g-4">
                                         <div class="col-md-6" style="min-height: 350px">
                                             <div class="position-relative h-100">
-                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project-2.jpg" style="object-fit: cover" alt="Arjun G-Tech Project" />
+                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project/arjungtech.png" style="object-fit: cover" alt="Arjun G-Tech Project" />
                                             </div>
                                         </div>
                                         <div class="col-md-6">
@@ -567,7 +567,7 @@
                                     <div class="row g-4">
                                         <div class="col-md-6" style="min-height: 350px">
                                             <div class="position-relative h-100">
-                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project-4.jpg" style="object-fit: cover" alt="Professional Website Design" />
+                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project/all-website.png" style="object-fit: cover" alt="Professional Website Design" />
                                             </div>
                                         </div>
                                         <div class="col-md-6">
