@@ -228,44 +228,43 @@
     <!-- Facts End -->
 
  <!-- About Start -->
-<section>
-  <div class="container-xxl py-5">
-    <div class="container">
-      <div class="row g-5">
-        <div class="col-lg-7 wow fadeIn" data-wow-delay="0.5s">
-          <div class="section-title">
-            <h6>About Us</h6>
-            <h2 class="mb-4">
-              Your Trusted Partner for Web & IT Solutions
-            </h2>
-          </div>
-          <p>
-            At <span style="color: purple; font-weight: 700;">JASHMA INFO SOFT</span>, we specialize in providing innovative and scalable web development, mobile app solutions, SEO, and digital marketing services. Whether you're looking to build a new website, enhance your app, or improve your online visibility, we deliver tailored solutions that help your business succeed in the digital world.
-          </p>
-          <p class="mb-3">
-            With a team of experienced developers, designers, and SEO experts, we focus on creating seamless, user-friendly experiences and ensuring your brand stands out online. Our approach combines creativity with technology to provide solutions that are both aesthetically pleasing and functional.
-          </p>
-          <div class="d-flex align-items-center mb-4">
-            <div
-              class="d-flex flex-shrink-0 align-items-center justify-content-center txt-primary"
-              style="width: 80px; height: 80px; border: 5px solid purple"
-            >
-              <h5 class="display-6 fw-bold" data-toggle="counter-up">10+</h5>
+    <section>
+        <div class="container-xxl py-5">
+            <div class="container">
+                <div class="row g-5">
+                    <div class="col-lg-7 wow fadeIn" data-wow-delay="0.5s">
+                        <div class="section-title">
+                            <h6>About Us</h6>
+                            <h2 class="mb-4">
+                                Your Trusted Partner for Web & IT Solutions
+                            </h2>
+                        </div>
+                        <p>
+                            At <span style="color: purple; font-weight: 700;">JASHMA INFO SOFT</span>, we specialize in providing innovative and scalable web development, mobile app solutions, SEO, and digital marketing services. Whether you're looking
+                            to build a new website, enhance your app, or improve your online visibility, we deliver tailored solutions that help your business succeed in the digital world.
+                        </p>
+                        <p class="mb-3">
+                            With a team of experienced developers, designers, and SEO experts, we focus on creating seamless, user-friendly experiences and ensuring your brand stands out online. Our approach combines creativity with technology to provide solutions that are both
+                            aesthetically pleasing and functional.
+                        </p>
+                        <div class="d-flex align-items-center mb-4">
+                            <div class="d-flex flex-shrink-0 align-items-center justify-content-center txt-primary" style="width: 80px; height: 80px; border: 5px solid purple">
+                                <h5 class="display-6 fw-bold" data-toggle="counter-up">10+</h5>
+                            </div>
+                            <div class="ps-4">
+                                <h4>Years</h4>
+                                <h4 class="mb-0">of Expertise in IT Solutions</h4>
+                            </div>
+                        </div>
+                        <a class="btn btn-inline-body py-3 px-5" href="#">Read More</a>
+                    </div>
+                    <div class="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
+                        <img class="img-fluid rounded" src="img/about-us.jpg" alt="Web & IT Solutions" />
+                    </div>
+                </div>
             </div>
-            <div class="ps-4">
-              <h4>Years</h4>
-              <h4 class="mb-0">of Expertise in IT Solutions</h4>
-            </div>
-          </div>
-          <a class="btn btn-inline-body py-3 px-5" href="#">Read More</a>
         </div>
-        <div class="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
-            <img class="img-fluid rounded" src="img/about-us.jpg" alt="Web & IT Solutions" />
-        </div>
-        </div>
-        </div>
-        </div>
-        </section>
+    </section>
         <!-- About End -->
 
         <!-- Service Start -->
