@@ -454,150 +454,149 @@
 
         <!-- Project Start -->
         <section>
-    <div class="container-xxl project py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
-                <div class="section-title">
-                    <h6>Our Projects</h6>
-                    <h2 class="mb-4">
-                        Explore Our Latest Projects and Innovations
-                    </h2>
-                </div>
-            </div>
-            <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="col-lg-4">
-                    <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
-                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
-                            01. Seller -Sathi
-                        </button>
-                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
-                            02. Arjun G-Tech
-                        </button>
-                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
-                            03. Gujju E-Market
-                        </button>
-                        <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
-                            => All Type of Website
-                        </button>
-                    </div>
-                </div>
-                <div class="col-lg-8">
-                    <div class="tab-content w-100">
-                        <div class="tab-pane fade show active" id="tab-pane-1">
-                            <div class="row g-4">
-                                <div class="col-md-6" style="min-height: 350px">
-                                    <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-1.jpg" style="object-fit: cover" alt="Seller Sathi Project" />
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <h1 class="mb-3">
-                                        Seller Sathi - Static Website for Ecommerce Service
-                                    </h1>
-                                    <p class="mb-4">
-                                        Seller Sathi is a static website built to showcase services for e-commerce businesses. The website offers detailed information about the services and features, creating an impactful online presence for the brand.
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Custom Static Website Design
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Mobile Responsive Layout
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>SEO Optimized Content for Visibility
-                                    </p>
-                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="tab-pane-2">
-                            <div class="row g-4">
-                                <div class="col-md-6" style="min-height: 350px">
-                                    <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-2.jpg" style="object-fit: cover" alt="Arjun G-Tech Project" />
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <h1 class="mb-3">
-                                        Arjun G-Tech - Static Website for IT Products
-                                    </h1>
-                                    <p class="mb-4">
-                                        Arjun G-Tech is a static website designed to showcase and promote IT products. The website serves as a professional online presence to market their offerings and build trust with potential customers.
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Custom Static Website Design
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Product Catalog and Features Display
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>SEO Friendly Structure for Visibility
-                                    </p>
-                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="tab-pane-3">
-                            <div class="row g-4">
-                                <div class="col-md-6" style="min-height: 350px">
-                                    <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-3.jpg" style="object-fit: cover" alt="Gujju E-Market Project" />
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <h1 class="mb-3">
-                                        Gujju E-Market - E-commerce Website Development
-                                    </h1>
-                                    <p class="mb-4">
-                                        Gujju E-Market is a fully functional e-commerce website that offers a user-friendly platform for online shopping. The website includes features like a product catalog, shopping cart, and secure payment gateway.
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Custom E-commerce Website Development
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Integrated Payment Gateway
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Responsive Design & Mobile Optimization
-                                    </p>
-                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="tab-pane-4">
-                            <div class="row g-4">
-                                <div class="col-md-6" style="min-height: 350px">
-                                    <div class="position-relative h-100">
-                                        <img class="position-absolute img-fluid w-100 h-100" src="img/project-4.jpg" style="object-fit: cover" alt="Professional Website Design" />
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <h1 class="mb-3">
-                                        Professional Website Design & Development
-                                    </h1>
-                                    <p class="mb-4">
-                                        We specialize in designing professional websites that reflect the brand’s identity, with a focus on user engagement, mobile responsiveness, and fast load times to enhance the user experience.
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Custom Website Design
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Responsive Web Design for all Devices
-                                    </p>
-                                    <p>
-                                        <i class="fa fa-check txt-primary me-3"></i>Fast Load Times & Optimized User Experience
-                                    </p>
-                                    <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
-                                </div>
-                            </div>
+            <div class="container-xxl project py-5">
+                <div class="container">
+                    <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px">
+                        <div class="section-title">
+                            <h6>Our Projects</h6>
+                            <h2 class="mb-4">
+                                Explore Our Latest Projects and Innovations
+                            </h2>
                         </div>
                     </div>
+                    <div class="row g-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-lg-4">
+                            <div class="nav nav-pills d-flex justify-content-between w-100 h-100 me-4">
+                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4 active" data-bs-toggle="pill" data-bs-target="#tab-pane-1" type="button">
+                                    01. Seller -Sathi
+                                </button>
+                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-2" type="button">
+                                    02. Arjun G-Tech
+                                </button>
+                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-4" data-bs-toggle="pill" data-bs-target="#tab-pane-3" type="button">
+                                    03. Gujju E-Market
+                                </button>
+                                <button class="nav-link w-100 d-flex align-items-center text-start p-4 mb-0" data-bs-toggle="pill" data-bs-target="#tab-pane-4" type="button">
+                                    => All Type of Website
+                                </button>
+                            </div>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="tab-content w-100">
+                                <div class="tab-pane fade show active" id="tab-pane-1">
+                                    <div class="row g-4">
+                                        <div class="col-md-6" style="min-height: 350px">
+                                            <div class="position-relative h-100">
+                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project-1.jpg" style="object-fit: cover" alt="Seller Sathi Project" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <h1 class="mb-3">
+                                                Seller Sathi - Static Website for Ecommerce Service
+                                            </h1>
+                                            <p class="mb-4">
+                                                Seller Sathi is a static website built to showcase services for e-commerce businesses. The website offers detailed information about the services and features, creating an impactful online presence for the brand.
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Custom Static Website Design
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Mobile Responsive Layout
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>SEO Optimized Content for Visibility
+                                            </p>
+                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="tab-pane-2">
+                                    <div class="row g-4">
+                                        <div class="col-md-6" style="min-height: 350px">
+                                            <div class="position-relative h-100">
+                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project-2.jpg" style="object-fit: cover" alt="Arjun G-Tech Project" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <h1 class="mb-3">
+                                                Arjun G-Tech - Static Website for IT Products
+                                            </h1>
+                                            <p class="mb-4">
+                                                Arjun G-Tech is a static website designed to showcase and promote IT products. The website serves as a professional online presence to market their offerings and build trust with potential customers.
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Custom Static Website Design
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Product Catalog and Features Display
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>SEO Friendly Structure for Visibility
+                                            </p>
+                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="tab-pane-3">
+                                    <div class="row g-4">
+                                        <div class="col-md-6" style="min-height: 350px">
+                                            <div class="position-relative h-100">
+                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project/gujjuemarket.png" style="object-fit: cover" alt="Gujju E-Market Project" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <h1 class="mb-3">
+                                                Gujju E-Market - E-commerce Website Development
+                                            </h1>
+                                            <p class="mb-4">
+                                                Gujju E-Market is a fully functional e-commerce website that offers a user-friendly platform for online shopping. The website includes features like a product catalog, shopping cart, and secure payment gateway.
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Custom E-commerce Website Development
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Integrated Payment Gateway
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Responsive Design & Mobile Optimization
+                                            </p>
+                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="tab-pane-4">
+                                    <div class="row g-4">
+                                        <div class="col-md-6" style="min-height: 350px">
+                                            <div class="position-relative h-100">
+                                                <img class="position-absolute img-fluid w-100 h-100" src="img/project-4.jpg" style="object-fit: cover" alt="Professional Website Design" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <h1 class="mb-3">
+                                                Professional Website Design & Development
+                                            </h1>
+                                            <p class="mb-4">
+                                                We specialize in designing professional websites that reflect the brand’s identity, with a focus on user engagement, mobile responsiveness, and fast load times to enhance the user experience.
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Custom Website Design
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Responsive Web Design for all Devices
+                                            </p>
+                                            <p>
+                                                <i class="fa fa-check txt-primary me-3"></i>Fast Load Times & Optimized User Experience
+                                            </p>
+                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-
+        </section>
         <!-- Project End -->
 
 
@@ -773,7 +772,7 @@
                                         </div>
                                         <div class="ms-4">
                                             <p class="mb-2">Mail Us Now</p>
-                                            <h3 class="mb-0"><a href="mailto:info@example.com">hr@jashmainfosoft.com</a></h3>
+                                            <h3 class="mb-0"><a href="mailto:hr@jashmainfosoft.com">hr@jashmainfosoft.com</a></h3>
                                         </div>
                                     </div>
                                 </div>
@@ -810,7 +809,6 @@
                                     </div>
                                 </div>
                             </form>
-
                         </div>
                     </div>
                 </div>
@@ -849,8 +847,8 @@
                         <div class="col-lg-4 col-md-6">
                             <h3 class="text-light mb-4">About Us</h3>
                             <p class="mb-2 text-light">
-                                Nanointory is a sleek interior design theme that blends creativity and functionality to transform spaces into stunning designs. Tailored for your unique needs, it’s where innovation meets elegance.
-                            </p>
+                                At <span style="color: purple; font-weight: 700;">JASHMA INFO SOFT</span>, we specialize in providing innovative and scalable web development, mobile app solutions, SEO, and digital marketing services. Whether you're looking to build a new website, enhance your app, or improve your online visibility, we deliver tailored solutions that help your business succeed in the digital world.
+                            </p>   
                         </div>
                         <div class="col-lg-2 col-md-6">
                             <h3 class="text-light mb-4">Services</h3>
@@ -975,39 +973,4 @@
         <!-- Custom Javascript -->
         <script src="js/main.js"></script>
 </body>
-
-
-
-
-
-
-
-
-
-
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
-</html>
-
 </html>
