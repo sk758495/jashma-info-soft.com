@@ -281,12 +281,12 @@ a {
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pages/contact-us-banner.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pages/about-us.png) center center no-repeat;
     background-size: cover;
 }
 
 .page-header-contact{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pages/about-us.png) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pages/contact-us-banner.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -296,7 +296,7 @@ a {
 }
 
 .page-header-project{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pages/project.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pages/project.png) center center no-repeat;
     background-size: cover;
 }
 

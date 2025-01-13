@@ -75,7 +75,7 @@
     <!-- Topbar End -->
 
     <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
+    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s" id="service">
         <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
             <img class="me-3" src="img/jasma-logo-removebg-preview.png" alt="logo" />
         </a>
@@ -239,21 +239,21 @@
                             </p>   
                         </div>
                         <div class="col-lg-2 col-md-6">
-                            <h3 class="text-light mb-4">Services</h3>
-                            <a class="btn btn-link" href="">Architecture</a>
-                            <a class="btn btn-link" href="">3D Animation</a>
-                            <a class="btn btn-link" href="">House Planning</a>
-                            <a class="btn btn-link" href="">Interior Design</a>
-                            <a class="btn btn-link" href="">Construction</a>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <h3 class="text-light mb-4">Quick Links</h3>
-                            <a class="btn btn-link" href="">About Us</a>
-                            <a class="btn btn-link" href="">Contact Us</a>
-                            <a class="btn btn-link" href="">Our Services</a>
-                            <a class="btn btn-link" href="">Terms & Condition</a>
-                            <a class="btn btn-link" href="">Support</a>
-                        </div>
+                        <h3 class="text-light mb-4">Services</h3>
+                        <a class="btn btn-link" href="service.html">Our Sevices</a>
+                        <a class="btn btn-link" href="#service">Website Development</a>
+                        <a class="btn btn-link" href="#service">Seo</a>
+                        <a class="btn btn-link" href="#service">Graphic Design</a>
+                        <a class="btn btn-link" href="#service">Hosting & Domain</a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <h3 class="text-light mb-4">Quick Links</h3>
+                        <a class="btn btn-link" href="about.html">About Us</a>
+                        <a class="btn btn-link" href="conact.php">Contact Us</a>
+                        <a class="btn btn-link" href="service.html">Our Services</a>
+                        <a class="btn btn-link" href="">Terms & Condition</a>
+                        <a class="btn btn-link" href="">Support</a>
+                    </div>
                         <div class="col-lg-3 col-md-6">
                             <h3 class="text-light mb-4">Address</h3>
                             <p class="mb-2 text-light">
@@ -266,15 +266,16 @@
                                 <i class="fa fa-envelope txt-primary me-3"></i>hr@jashmainfosoft.com
                             </p>
                             <div class="d-flex pt-2">
-                                <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-facebook-f"></i
+                                <a class="btn btn-square btn-outline-body me-1" href="https://www.facebook.com/dhanji.bharwad.3/"><i class="fab fa-facebook-f"></i
                 ></a>
-                                <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i
+                                <!-- <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i
                 ></a>
                                 <a class="btn btn-sm-square btn-outline-body me-1" href="">
                                     <i class="fa-brands fa-x-twitter"></i>
-                                </a>
-                                <a class="btn btn-square btn-outline-body me-0" href=""><i class="fab fa-linkedin-in"></i
-                ></a>
+                                </a> -->
+                                <a class="btn btn-sm-square btn-outline-body me-0" href="https://www.instagram.com/seller_sathi_vadodara">
+                        <i class="fab fa-instagram"></i>
+                    </a>
                             </div>
                         </div>
                     </div>

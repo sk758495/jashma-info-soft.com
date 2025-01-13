@@ -880,15 +880,16 @@
                                 <i class="fa fa-envelope txt-primary me-3"></i>hr@jashmainfosoft.com
                             </p>
                             <div class="d-flex pt-2">
-                                <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-facebook-f"></i
+                                <a class="btn btn-square btn-outline-body me-1" href="https://www.facebook.com/dhanji.bharwad.3/"><i class="fab fa-facebook-f"></i
                 ></a>
-                                <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i
+                                <!-- <a class="btn btn-square btn-outline-body me-1" href=""><i class="fab fa-youtube"></i
                 ></a>
                                 <a class="btn btn-sm-square btn-outline-body me-1" href="">
                                     <i class="fa-brands fa-x-twitter"></i>
-                                </a>
-                                <a class="btn btn-square btn-outline-body me-0" href=""><i class="fab fa-linkedin-in"></i
-                ></a>
+                                </a> -->
+                                <a class="btn btn-sm-square btn-outline-body me-0" href="https://www.instagram.com/seller_sathi_vadodara">
+                        <i class="fab fa-instagram"></i>
+                    </a>
                             </div>
                         </div>
                     </div>
