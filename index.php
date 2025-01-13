@@ -508,7 +508,7 @@
                                             <p>
                                                 <i class="fa fa-check txt-primary me-3"></i>SEO Optimized Content for Visibility
                                             </p>
-                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                            <a href="https://sellersathi.in/" class="btn btn-inline-body py-3 px-5 mt-3">See Live Project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -535,7 +535,7 @@
                                             <p>
                                                 <i class="fa fa-check txt-primary me-3"></i>SEO Friendly Structure for Visibility
                                             </p>
-                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                            <a href="https://arjungtech.com/" class="btn btn-inline-body py-3 px-5 mt-3">See Live Project</a>
                                         </div>
                                     </div>
                                 </div>
@@ -562,7 +562,7 @@
                                             <p>
                                                 <i class="fa fa-check txt-primary me-3"></i>Responsive Design & Mobile Optimization
                                             </p>
-                                            <a href="" class="btn btn-inline-body py-3 px-5 mt-3">Read More</a>
+                                            <a href="https://gujjuemarket.com/" class="btn btn-inline-body py-3 px-5 mt-3">See Live Project</a>
                                         </div>
                                     </div>
                                 </div>
