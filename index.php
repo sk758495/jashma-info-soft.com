@@ -248,9 +248,12 @@
                             aesthetically pleasing and functional.
                         </p>
                         <div class="d-flex align-items-center mb-4">
-                            <div class="d-flex flex-shrink-0 align-items-center justify-content-center txt-primary" style="width: 80px; height: 80px; border: 5px solid purple">
-                                <h5 class="display-6 fw-bold" data-toggle="counter-up">10+</h5>
-                            </div>
+                        <div
+                  class="d-flex flex-shrink-0 align-items-center justify-content-center txt-primary"
+                  style="width: 80px; height: 80px; border: 5px solid #d31e26"
+                >
+                  <h5 class="display-6 fw-bold" data-toggle="counter-up">4</h5>
+                </div>
                             <div class="ps-4">
                                 <h4>Years</h4>
                                 <h4 class="mb-0">of Expertise in IT Solutions</h4>
@@ -268,7 +271,7 @@
         <!-- About End -->
 
         <!-- Service Start -->
-        <section>
+        <section id="service">
             <div class="container-xxl py-5">
                 <div class="container">
                     <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 700px">
@@ -851,17 +854,17 @@
                         </div>
                         <div class="col-lg-2 col-md-6">
                             <h3 class="text-light mb-4">Services</h3>
-                            <a class="btn btn-link" href="">Architecture</a>
-                            <a class="btn btn-link" href="">3D Animation</a>
-                            <a class="btn btn-link" href="">House Planning</a>
-                            <a class="btn btn-link" href="">Interior Design</a>
-                            <a class="btn btn-link" href="">Construction</a>
+                            <a class="btn btn-link" href="service.html">Our Sevices</a>
+                            <a class="btn btn-link" href="#service">Website Development</a>
+                            <a class="btn btn-link" href="#service">Seo</a>
+                            <a class="btn btn-link" href="#service">Graphic Design</a>
+                            <a class="btn btn-link" href="#service">Hosting & Domain</a>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <h3 class="text-light mb-4">Quick Links</h3>
-                            <a class="btn btn-link" href="">About Us</a>
-                            <a class="btn btn-link" href="">Contact Us</a>
-                            <a class="btn btn-link" href="">Our Services</a>
+                            <a class="btn btn-link" href="about.html">About Us</a>
+                            <a class="btn btn-link" href="contact.php">Contact Us</a>
+                            <a class="btn btn-link" href="service.html">Our Services</a>
                             <a class="btn btn-link" href="">Terms & Condition</a>
                             <a class="btn btn-link" href="">Support</a>
                         </div>

@@ -281,7 +281,7 @@ a {
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pages/about-us.png) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/pages/about-us.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -638,48 +638,56 @@ a {
     color: var(--primary);
 }
 
-
-
 .footer .btn.btn-link:hover {
     color: var(--primary);
     letter-spacing: 1px;
     box-shadow: none;
 }
+
 .footer .form-control {
     border-color: #777777;
 }
+
 .footer .copyright {
     padding: 25px 0;
     font-size: 15px;
     border-top: 1px solid rgba(256, 256, 256, 0.1);
 }
+
 .footer .copyright a {
     color: var(--light);
 }
+
 .footer .copyright a:hover {
     color: var(--primary);
 }
-
 
 .footer .btn.btn-link:hover {
     color: var(--primary);
     letter-spacing: 1px;
     box-shadow: none;
 }
+
 .footer .form-control {
     border-color: #777777;
 }
+
 .footer .copyright {
     padding: 25px 0;
     font-size: 15px;
-    border-top: 1px solid rgba(256,
-    256,
-    256,
-    0.1);
+    border-top: 1px solid rgba(256, 256, 256, 0.1);
 }
+
 .footer .copyright a {
     color: var(--light);
 }
+
+.footer .copyright a:hover {
+    color: var(--primary);
+}footer .copyright a {
+    color: var(--light);
+}
+
 .footer .copyright a:hover {
     color: var(--primary);
 }
